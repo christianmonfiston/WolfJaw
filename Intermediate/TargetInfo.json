@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WolfJaw",
+			"Path": "..\\Source\\WolfJaw.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WolfJawEditor",
+			"Path": "..\\Source\\WolfJawEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

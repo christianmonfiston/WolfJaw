@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WolfJaw.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WolfJaw.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WolfJawEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WolfJaw">
+      <UniqueIdentifier>{0C719613-74B3-399C-BEC5-21E3B17B4293}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WolfJaw\Engineer.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\Engineer.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\TP_PickUpComponent.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\TP_PickUpComponent.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\TP_WeaponComponent.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\TP_WeaponComponent.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WolfJaw\WolfJaw.Build.cs">
+      <Filter>Source\WolfJaw</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WolfJaw\WolfJaw.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\WolfJaw.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\WolfJawCharacter.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\WolfJawCharacter.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\WolfJawGameMode.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\WolfJawGameMode.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\WolfJawPlayerController.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\WolfJawPlayerController.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WolfJaw\WolfJawProjectile.cpp">
+      <Filter>Source\WolfJaw</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WolfJaw\WolfJawProjectile.h">
+      <Filter>Source\WolfJaw</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
